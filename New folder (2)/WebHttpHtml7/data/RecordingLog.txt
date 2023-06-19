@@ -1,0 +1,100 @@
+[API Trapper      (3310:3124)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (2918: 1c4)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (1604:389c)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1604: 9cc)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1604: 9cc)] Load Network Traffic Analyzers:
+[Network Analyzer (1604: 9cc)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1604: 9cc)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (1604: 9cc)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1604: 9cc)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (1604: 9cc)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (1604: 9cc)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1604: 9cc)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1604: 9cc)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1604:3404)] Address lookup for DESKTOP-EKUEGMF = 192.168.1.40
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2404:6800:4009:0827:0000:0000:0000:2003 - 443  (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2404:6800:4009:082E:0000:0000:0000:200D - 443  (Service=)  (Sid=  2)  PROXIED!
+[API Trapper      (3808: 460)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2404:6800:4009:0826:0000:0000:0000:2003 - 443  (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (1604:3864)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (1604:3864)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1604: 748)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1604:2134)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (1604:2e24)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2404:6800:4009:0827:0000:0000:0000:2003 - 443  (Service=)  (Sid=  4)  PROXIED!
+[Net An. Error    (1604: 748)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1604:2e24)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1604:2134)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (1604:2134)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2404:6800:4009:082E:0000:0000:0000:200D - 443  (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2404:6800:4009:0826:0000:0000:0000:2003 - 443  (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (1604:37d8)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2404:6800:4003:0C0F:0000:0000:0000:00BC - 5228  (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (1604:3b84)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2404:6800:4009:081C:0000:0000:0000:2003 - 443  (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (1604:2190)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1604:1f78)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1604:31fc)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2606:50C0:8001:0000:0000:0000:0000:0153 - 443  (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2001:4860:4802:0032:0000:0000:0000:001D - 80  (Service=)  (Sid= 10)  PROXIED!
+[Net An. Error    (1604:3b84)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1604:1f78)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1604:2190)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1604:31fc)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1604:2c6c)]   (Sid:  9) SSL handshake with remote server Failed!
+[Web Request      (1604:2134)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer (1604:2134)]   (Sid: 10) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2606:50C0:8001:0000:0000:0000:0000:0153 - 443  (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (1604:2134)]   (Sid: 10) Server -> Client : 1220 bytes  (Service=HTTP)
+[Network Analyzer (1604:2134)]   (Sid: 10) Server -> Client : 820 bytes  (Service=HTTP)
+[Web Request      (1604:2134)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer (1604:2134)]   (Sid: 10) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (1604:2134)]   (Sid: 10) Server -> Client : 2060 bytes  (Service=HTTP)
+[Web Request      (1604:2134)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer (1604:2134)]   (Sid: 10) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (1604:2134)]   (Sid: 10) Server -> Client : 1220 bytes  (Service=HTTP)
+[Net An. Error    (1604:36c8)]   (Sid: 11) SSL handshake with remote server Failed!
+[Network Analyzer (1604:2134)]   (Sid: 10) Server -> Client : 820 bytes  (Service=HTTP)
+[Web Request      (1604:2134)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer (1604:2134)]   (Sid: 10) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (1604:2134)]   (Sid: 10) Server -> Client : 1220 bytes  (Service=HTTP)
+[Network Analyzer (1604:2134)]   (Sid: 10) Server -> Client : 840 bytes  (Service=HTTP)
+[Net An. Error    (1604:37d8)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2606:50C0:8001:0000:0000:0000:0000:0153 - 443  (Service=)  (Sid= 12)  PROXIED!
+[Net An. Error    (1604:2c48)]   (Sid: 12) SSL handshake with remote server Failed!
+[Network Analyzer (1604:2134)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (1604:2134)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (1604:2134)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (1604:2134)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (1604:2134)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2404:6800:4009:0804:0000:0000:0000:200E - 443  (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2404:6800:4009:0821:0000:0000:0000:200A - 443  (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (1604:1edc)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (1604:1edc)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1604:2134)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (1604: fb8)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2404:6800:4009:0823:0000:0000:0000:200A - 443  (Service=)  (Sid= 15)  PROXIED!
+[Net An. Error    (1604: fb8)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1604: 80c)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (1604: 80c)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1604:2134)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (1604:2134)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (1604:2134)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2404:6800:4003:0C0F:0000:0000:0000:00BC - 443  (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (1604:2de0)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (1604:2de0)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1604:2134)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2606:50C0:8001:0000:0000:0000:0000:0153 - 443  (Service=)  (Sid= 17)  PROXIED!
+[Net An. Error    (1604:2878)]   (Sid: 17) SSL handshake with remote server Failed!
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2606:50C0:8001:0000:0000:0000:0000:0153 - 443  (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2606:50C0:8001:0000:0000:0000:0000:0153 - 443  (Service=)  (Sid= 19)  PROXIED!
+[Net An. Error    (1604:1500)]   (Sid: 18) SSL handshake with remote server Failed!
+[Net An. Error    (1604: 5c8)]   (Sid: 19) SSL handshake with remote server Failed!
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2404:6800:4009:082C:0000:0000:0000:2003 - 443  (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2606:50C0:8001:0000:0000:0000:0000:0153 - 443  (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2606:50C0:8001:0000:0000:0000:0000:0153 - 443  (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2606:50C0:8001:0000:0000:0000:0000:0153 - 443  (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (1604:2bb0)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1604: 9cc)] Request Connection: Remote Server @ 2001:4860:4802:0032:0000:0000:0000:001D - 80  (Service=)  (Sid= 24)  PROXIED!
+[Net An. Error    (1604:1ee8)]   (Sid: 21) SSL handshake with remote server Failed!
+[Net An. Error    (1604:2bb0)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake Failed!!!

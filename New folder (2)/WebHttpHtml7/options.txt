@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Admin\Desktop\New folder (2)\WebHttpHtml7
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\users\admin\desktop\new folder (2)\webhttphtml7\\logfile.log
+c:\users\admin\desktop\new folder (2)\webhttphtml7\\combined_WebHttpHtml7.c
+c:\users\admin\desktop\new folder (2)\webhttphtml7\\pre_cci.c
