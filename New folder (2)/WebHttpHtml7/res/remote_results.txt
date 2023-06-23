@@ -1,2 +1,0 @@
-[Hosts]
-localhost=C:\Users\Admin\Documents\VuGen\Scripts\WebHttpHtml7\res\localhost_1.eve
